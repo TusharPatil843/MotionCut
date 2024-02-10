@@ -1,1 +1,0 @@
-# motioncut_task2
